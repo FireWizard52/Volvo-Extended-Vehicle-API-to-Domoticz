@@ -25,10 +25,10 @@ Feel free to configure the "Inject"node to your desired values.
 
 Note.
 
-Currently the obtained User Access Token for both the Demo car, as well as your own car  will expire after 1 hour.
+Currently the obtained User Access Token for both the Demo car, as well as your own car will expire after 1 hour.
 In order to get a new token, you will have to log out and afterwards to log in again.
 
-Non Domoticz users may safely delete the last "Function" node and the most right "Configuration" node
+Non Domoticz users may safely delete the last "Function" node and the most right "Configuration" node.
 
 Disclaimer.
 
